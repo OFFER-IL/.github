@@ -1,7 +1,7 @@
 <h1 align="center"><strong>OFFER trading platform</strong></h1>
 
 <div align="center" style="max-width:350px !important;">
-    <a href="imglink" target="_blank">
+    <a href="https://github.com/OFFER-IL" target="_blank">
         <img width="350px" src="https://cdn-icons-png.flaticon.com/512/1969/1969111.png" alt="offer-banner" align="center" />
     </a>
 </div>
