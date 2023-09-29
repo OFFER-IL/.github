@@ -1,4 +1,4 @@
-<h1 align="center"><strong>OFFER trading platform</strong></h1>
+<h1 align="center"><strong>OFFER - Trading Platform</strong></h1>
 
 <div align="center" style="max-width:100px !important;">
     <a href="https://github.com/OFFER-IL" target="_blank">
